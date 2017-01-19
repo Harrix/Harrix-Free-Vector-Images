@@ -3,18 +3,20 @@
 <svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
+	<g>
+		<rect x="250.8" y="4.7" width="10.3" height="20.7"/>
+		<rect x="250.8" y="486.7" width="10.3" height="20.7"/>
+		<rect x="9.8" y="245.7" transform="matrix(4.488860e-011 -1 1 4.488860e-011 -241 271)" width="10.3" height="20.7"/>
+		<rect x="491.8" y="245.7" transform="matrix(4.506446e-011 -1 1 4.506446e-011 241 753)" width="10.3" height="20.7"/>
+		<rect x="42.1" y="125.2" transform="matrix(0.5 -0.866 0.866 0.5 -93.7025 108.7025)" width="10.3" height="20.7"/>
+		<rect x="459.5" y="366.2" transform="matrix(0.5 -0.866 0.866 0.5 -93.7025 590.7025)" width="10.3" height="20.7"/>
+		<rect x="130.3" y="454.4" transform="matrix(-0.866 -0.5 0.5 -0.866 20.4904 934.9146)" width="10.3" height="20.7"/>
+		<rect x="371.3" y="37" transform="matrix(-0.866 -0.5 0.5 -0.866 678.9146 276.4904)" width="10.3" height="20.7"/>
+		<rect x="130.3" y="37" transform="matrix(0.866 -0.5 0.5 0.866 -5.4904 74.0854)" width="10.3" height="20.7"/>
+		<rect x="371.3" y="454.4" transform="matrix(0.866 -0.5 0.5 0.866 -181.9146 250.5096)" width="10.3" height="20.7"/>
+		<rect x="42.1" y="366.2" transform="matrix(-0.5 -0.866 0.866 -0.5 -255.1268 605.7025)" width="10.3" height="20.7"/>
+		<rect x="459.5" y="125.2" transform="matrix(-0.5 -0.866 0.866 -0.5 579.7217 605.7025)" width="10.3" height="20.7"/>
+	</g>
 	<circle cx="256" cy="256" r="11.1"/>
-	<rect x="250.8" y="4.7" width="10.3" height="20.7"/>
-	<rect x="250.8" y="486.7" width="10.3" height="20.7"/>
-	<rect x="9.8" y="245.7" transform="matrix(4.488860e-011 -1 1 4.488860e-011 -241 271)" width="10.3" height="20.7"/>
-	<rect x="491.8" y="245.7" transform="matrix(4.506446e-011 -1 1 4.506446e-011 241 753)" width="10.3" height="20.7"/>
-	<rect x="42.1" y="125.2" transform="matrix(0.5 -0.866 0.866 0.5 -93.7025 108.7025)" width="10.3" height="20.7"/>
-	<rect x="459.5" y="366.2" transform="matrix(0.5 -0.866 0.866 0.5 -93.7025 590.7025)" width="10.3" height="20.7"/>
-	<rect x="130.3" y="454.4" transform="matrix(-0.866 -0.5 0.5 -0.866 20.4904 934.9146)" width="10.3" height="20.7"/>
-	<rect x="371.3" y="37" transform="matrix(-0.866 -0.5 0.5 -0.866 678.9146 276.4904)" width="10.3" height="20.7"/>
-	<rect x="130.3" y="37" transform="matrix(0.866 -0.5 0.5 0.866 -5.4904 74.0854)" width="10.3" height="20.7"/>
-	<rect x="371.3" y="454.4" transform="matrix(0.866 -0.5 0.5 0.866 -181.9146 250.5096)" width="10.3" height="20.7"/>
-	<rect x="42.1" y="366.2" transform="matrix(-0.5 -0.866 0.866 -0.5 -255.1268 605.7025)" width="10.3" height="20.7"/>
-	<rect x="459.5" y="125.2" transform="matrix(-0.5 -0.866 0.866 -0.5 579.7217 605.7025)" width="10.3" height="20.7"/>
 </g>
 </svg>
