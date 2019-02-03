@@ -1,1 +1,10 @@
-<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 28 28" xml:space="preserve"><style type="text/css">.st0{fill:#767676}</style><path transform="rotate(-180 10.5 14)" class="st0" d="M9.5 9h2v10h-2z"/><path class="st0" d="M18.5 9v10l-7-5z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 28 28" style="enable-background:new 0 0 28 28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#36434F;}
+</style>
+<path class="st0" d="M11.5,19h-2V9h2V19z"/>
+<path class="st0" d="M18.5,9v10l-7-5L18.5,9z"/>
+</svg>
