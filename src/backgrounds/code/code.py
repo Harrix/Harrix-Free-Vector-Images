@@ -4,8 +4,8 @@ letter_height = 9
 letter_width = 8
 line_height = 9
 margin = 10
-width_fix = 512
-height_fix = 512
+width_fix = 1920
+height_fix = 1920
 is_fix = True
 space_symbols = ' '
 
@@ -13,7 +13,7 @@ color_background = '#36434f'
 color_code = '#999999'
 
 file = Path("input.txt")
-with open(file) as f:
+with open(file, encoding="utf-8") as f:
     content = f.read().splitlines()
 
 data = []
