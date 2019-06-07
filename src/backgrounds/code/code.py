@@ -3,7 +3,7 @@ from pathlib import Path
 letter_height = 9
 letter_width = 8
 line_height = 9
-margin = 10
+margin = 8
 width_fix = 1920
 height_fix = 1920
 is_fix = True
