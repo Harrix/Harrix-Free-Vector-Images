@@ -1,0 +1,28 @@
+from pathlib import Path
+
+data = []
+
+max_length = -1
+for s in content:
+    line = []
+    if len(s) > max_length:
+        max_length = len(s)
+    for letter in s:
+        if letter in space_symbols:
+            line.append(0)
+        else:
+            line.append(1)
+    data.append(line)
+
+width = max_length * letter_width + 2 * margin
+
+for i in range(len(data)):
+    le = 0
+    length_block = 0
+    stop = False
+    j_block = 0
+
+result += '\n<g>\n{}\n</g>\n'.format("\n".join(list_rects))
+
+with open('output.svg', 'w') as file:
+    file.write(result)
